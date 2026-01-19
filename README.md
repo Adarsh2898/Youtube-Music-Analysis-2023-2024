@@ -25,7 +25,7 @@ This project demonstrates my ability to:
 
 
 - 🔗 **LinkedIn Post:**  
-  Coming
+  [https://shorturl.at/lbPSb]
 
 ---
 
