@@ -18,6 +18,17 @@ This project demonstrates my ability to:
 
 ---
 
+## 🔗 Project Links
+
+- 🔗 **Live Dashboard:**  
+  [https://shorturl.at/wDmaH]
+
+
+- 🔗 **LinkedIn Post:**  
+  Coming
+
+---
+
 ## 🎯 Business Objective
 
 To provide a centralized analytics solution that helps users:
