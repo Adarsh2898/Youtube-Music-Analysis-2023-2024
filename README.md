@@ -51,7 +51,7 @@ The dashboard is divided into **four main sections**:
 | 🎤 Artists | Artist-level analysis |
 | 🎵 Songs | Song-level deep dive |
 
-(https://github.com/Adarsh2898/Youtube-Music-Analysis-2023-2024/blob/main/Home.png)
+![Home](https://github.com/Adarsh2898/Youtube-Music-Analysis-2023-2024/blob/main/Home.png)
 
 ---
 
@@ -68,7 +68,7 @@ The dashboard is divided into **four main sections**:
 - Monthly & quarterly popularity trends
 - Year-wise release comparison (2023 vs 2024)
 
-(https://github.com/Adarsh2898/Youtube-Music-Analysis-2023-2024/blob/main/Overview.png)
+![Overview](https://github.com/Adarsh2898/Youtube-Music-Analysis-2023-2024/blob/main/Overview.png)
 
 ---
 
@@ -89,7 +89,7 @@ Focuses on identifying **high-impact artists** and understanding their reach.
 - Bad Bunny  
 - Beyoncé  
 
-(https://github.com/Adarsh2898/Youtube-Music-Analysis-2023-2024/blob/main/Artists.png)
+![Artists](https://github.com/Adarsh2898/Youtube-Music-Analysis-2023-2024/blob/main/Artists.png)
 
 ---
 
@@ -110,7 +110,7 @@ Provides granular analysis of **individual songs**.
 - *Seven (feat. Latto)*  
 - *Lose Control*  
 
-(https://github.com/Adarsh2898/Youtube-Music-Analysis-2023-2024/blob/main/Songs.png)
+![Songs](https://github.com/Adarsh2898/Youtube-Music-Analysis-2023-2024/blob/main/Songs.png)
 
 ---
 
